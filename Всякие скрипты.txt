@@ -1,0 +1,44 @@
+https://api-invest-gw.tinkoff.ru/social/notification/v1/operation?limit=20&appName=invest_terminal&sessionId=Yq3zMablcZFEuYdTfL49R1kcVOdsjY61.ix-prod-api50
+
+fetch("https://api-invest-gw.tinkoff.ru/social/notification/v1/operation?limit=20&appName=invest_terminal&sessionId=Yq3zMablcZFEuYdTfL49R1kcVOdsjY61.ix-prod-api50", {
+  "headers": {
+    "accept": "application/json, text/plain, */*",
+    "accept-language": "ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7",
+    "cache-control": "no-cache",
+    "pragma": "no-cache",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Google Chrome\";v=\"129\", \"Not=A?Brand\";v=\"8\", \"Chromium\";v=\"129\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Windows\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "x-app-name": "invest_terminal",
+    "x-app-version": "2.0.0",
+    "x-platform": "invest_terminal"
+  },
+  "referrer": "https://www.tbank.ru/",
+  "referrerPolicy": "strict-origin-when-cross-origin",
+  "body": null,
+  "method": "GET",
+  "mode": "cors",
+  "credentials": "omit"
+});
+
+
+https://api-invest-gw.tinkoff.ru/social/v1/profile/catalog?nickname=vadya&profileType=personal&limit=30&appName=invest_terminal&version=2.0.0&platform=invest_terminal&origin=web%2Cib5%2Cplatform%2Cmdep&sessionId=Yq3zMablcZFEuYdTfL49R1kcVOdsjY61.ix-prod-api50
+
+"https://api-invest-gw.tinkoff.ru/social/v1/profile/a6571dcc-c61c-4795-a06c-517b7db825cd"/portfolio/analytics?appName=invest_terminal&version=2.0.0&platform=invest_terminal&sessionId=Yq3zMablcZFEuYdTfL49R1kcVOdsjY61.ix-prod-api50"
+
+https://api-invest-gw.tinkoff.ru/social/v1/profile/e0a45830-0ac9-496d-8102-fa7fc9870c73/instrument?limit=20&appName=invest_terminal&version=2.0.0&platform=invest_terminal&origin=web%2Cib5%2Cplatform%2Cmdep&sessionId=Yq3zMablcZFEuYdTfL49R1kcVOdsjY61.ix-prod-api50
+
+vadya93		a6571dcc-c61c-4795-a06c-517b7db825cd
+linmath		9ce186a1-e47c-4011-8bdb-cfe5e8ef6d14
+gold.100	bc19ec54-033a-4992-80a6-535847e6d764
+Nabizade_92	71d1c955-5f29-4c06-aabd-a53a99a23ae0
+Levry		945e47b9-5eb1-4ac2-a6dd-712a52ff9f8f
+zit4ne		a40f04fc-eec4-4f77-8500-12dc24dbbde2
+venchenzo	55392d9f-6acd-4237-b23f-67c6515eacd7
+extreme_911	fc449bfb-3075-43df-938c-98a22606d51a
+Vyacheslavzz	0df49c0f-0a97-497c-8ca0-5f790addbd02
+Vladislavzz	e0a45830-0ac9-496d-8102-fa7fc9870c73
